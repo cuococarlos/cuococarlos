@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## About me
 
-- 🌱 I’m currently learning [`elixir`](https://elixir-lang.org/), the [`Phoenix framework`](phoenixframework.org/) and devops skills.
+- 🌱 I’m currently learning devops skills.
 - 🏢 I’m currently working at [`cambá coop`](https://camba.coop/).
 - 📫 How to reach me: [`charlie@camba.coop`](mailto:charlie@camba.coop)
 - 😄 Pronouns: `charlie`
