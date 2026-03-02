@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" src="https://camo.githubusercontent.com/c8f91d18976e27123643a926a2588b8d931a0292fd0b6532c3155379e8591629/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/153393?s=200&v=4"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/1481354?s=200&v=4"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/6510388?s=200&v=4"></code>
@@ -42,5 +41,4 @@ Here are some ideas to get you started:
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
