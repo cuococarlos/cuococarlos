@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 ## About me
 
 - 🌱 I’m currently learning devops skills.
-- 🏢 I’m currently working at [`cambá coop`](https://camba.coop/).
-- 📫 How to reach me: [`charlie@camba.coop`](mailto:charlie@camba.coop)
+- 🏢 I’m currently teaching at [`UNQUI`](https://www.unq.edu.ar/).
+- 📫 How to reach me: [`cuococarlos@gmail.com`](mailto:cuococarlos@gmail.com)
 - 😄 Pronouns: `charlie`
 
 ## Language and Tools
