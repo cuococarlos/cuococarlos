@@ -40,17 +40,7 @@ Here are some ideas to get you started:
 
 ## Stats
 
-<p align="left">
-  <a href="https://github.com/cuococarlos">
-    <img align="center" alt="Charlie Cuoco GitHub Stats"
-      height="180px"
-      src="https://github-readme-stats.vercel.app/api?username=cuococarlos&show_icons=true&line_height=27&count_private=true&theme=prussian&hide_border=true&include_all_commits=true&title_color=d8dee9&icon_color=bf91f3&text_color=d8dee9&bg_color=45,000000,172f45"
-    />
-  </a>
-  <a href="https://github.com/cuococarlos">
-    <img align="center" alt="Most used languages"
-      height="180px"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuococarlos&langs_count=30&hide=xtend,scss&layout=compact&hide_border=true&title_color=d8dee9&icon_color=bf91f3&text_color=d8dee9&bg_color=45,172f45,172f45,122536,122536,122536,081119"
-    />
-  </a>
-<p>
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+
